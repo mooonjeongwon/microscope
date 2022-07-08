@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.5","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2022-07-08T11:33:03.043Z","userMetadata":{},"modelName":"혈액","labels":["eosinophil","lymphocyte","monocyte","neutrophil"],"imageSize":224}
